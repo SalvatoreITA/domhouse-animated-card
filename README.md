@@ -9,6 +9,8 @@
 
 **Una card animata elegante per Home Assistant che mostra Data, Ora e un carosello di sensori con animazione flipper.**
 
+![Anteprima Card](CARDdd.PNG)
+
 ## ✨ Caratteristiche
 - **Orologio e Data** completamente personalizzabili.
 - **Righe Animate:** Fino a 4 righe che ruotano automaticamente.
@@ -22,7 +24,7 @@
 ### HACS (Consigliato)
 1. Vai su HACS > Frontend.
 2. Clicca i 3 puntini in alto a destra > **Custom repositories**.
-3. Inserisci l'URL di questa repository.
+3. Inserisci l'URL di questa repository. https://github.com/SalvatoreITA/domhouse-animated-card
 4. Categoria: **Lovelace**.
 5. Clicca **Add** e poi installa la card.
 
@@ -36,5 +38,5 @@
 ## 🔧 Configurazione
 Aggiungi una card e cerca **"DomHouse Animated Card"**.
 
----
-Powered by [DomHouse.it](https://www.domhouse.it)
+### ❤️ Crediti
+Sviluppato da [Salvatore Lentini - DomHouse.it](https://www.domhouse.it)
