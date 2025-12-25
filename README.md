@@ -9,7 +9,7 @@
 
 **Una card animata elegante per Home Assistant che mostra Data, Ora e un carosello di sensori con animazione flipper.**
 
-![Anteprima Card](CARDdd.PNG)
+![Anteprima Card](CARD.png)
 
 ## ✨ Caratteristiche
 - **Orologio e Data** completamente personalizzabili.
