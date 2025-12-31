@@ -38,5 +38,5 @@
 ## 🔧 Configurazione
 Aggiungi una card e cerca **"DomHouse Animated Card"**.
 
-### ❤️ Crediti
+## ❤️ Crediti
 Sviluppato da [Salvatore Lentini - DomHouse.it](https://www.domhouse.it)
