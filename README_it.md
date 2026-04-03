@@ -1,4 +1,4 @@
-# ⏱️ DomHouse Animated Card - CARD BETA NON APERTA AL PUBBLICO
+# ⏱️ DomHouse Animated Card - CARD BETA NON APERTA AL PUBBLICO NON INSTALLARE
 
 [![it](https://img.shields.io/badge/lang-it-green.svg)](https://github.com/SalvatoreITA/domhouse-animated-card/blob/main/README_it.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/SalvatoreITA/domhouse-animated-card/blob/main/README.md)
